@@ -1,0 +1,4 @@
+- **[[Stack]]**  : Function call frames, local variables, etc.
+- **[[Heap]]**  : Dynamically allocated memory.
+- **[[Shared Libraries]]** : DLLs or *.so* files used by the program.
+- **Executable Base Address** : Where the program's instructions are loaded.

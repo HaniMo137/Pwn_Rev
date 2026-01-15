@@ -1,0 +1,1 @@
+The `va_arg` macro is used in C to retrieve arguments passed to a function when the number of arguments is not known in advance. It's part of the **variadic functions** mechanism in C, which allows functions to accept a variable number of arguments.

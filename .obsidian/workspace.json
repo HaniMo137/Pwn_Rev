@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "525a83fedc12ea3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6bd48b890749537",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf849d1d3b9c4b5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wargames/Narnia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Narnia"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f98da690beb1c348",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ade3435fc065cf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5750d3bd55ecd86",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "69de4befe0fb2e57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Malware analysis/Elf exec.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elf exec"
+            }
+          },
+          {
+            "id": "df5f4d970c726dde",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9647f5a141a0ae0a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7c39c20b347894c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4180a7273c24f9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4366cfbf53204409",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Links.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Links"
+            }
+          },
+          {
+            "id": "ff8bdd256f7bcaf1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Links.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Links"
+            }
+          },
+          {
+            "id": "033ee26ecfd34bba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f704d1f306d06406",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Links.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Links"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "cf849d1d3b9c4b5c",
+  "lastOpenFiles": [
+    "Useful links/research.md",
+    "PWN - exploits/Baby.md",
+    "Wargames/Narnia.md",
+    "Useful links/Roadmap.md",
+    "Useful links/Prompts.md",
+    "Useful links/Links for exploit.md",
+    "Useful links/Links for learning.md",
+    "Security Mechanisms/PIE.md",
+    "Reverse Engineering/UPX Packing.md",
+    "Reverse Engineering/Universal Binary.md",
+    "Reverse Engineering/UD2.md",
+    "PWN - exploits/Time-of-check to time-of-use (TOCTOU) race condition.md",
+    "PWN - exploits/Shells.md",
+    "PWN - exploits/Pwn - test.md",
+    "PWN - exploits/Hash Collision.md",
+    "PWN - exploits/Pwnable.kr_write-ups",
+    "Tools/Radare2.md",
+    "Useful links/I need to study this.md",
+    "Tools/Rabin2.md",
+    "Tools/PwnTools.md",
+    "Tools/gdb.md",
+    "Stack/Stack.md",
+    "Stack/Return Oriented Programming/ROP.md",
+    "Stack/Return Oriented Programming/Gadgets.md",
+    "Stack/Return Oriented Programming/Calling Conventions.md",
+    "Stack/Format String/Exploiting Format String Vulnerabilities (scut , team teso).md",
+    "Stack/Buffer Overflow/Smashing The Stack For Fun And Profit.md",
+    "Malware analysis/Fantasy_Hub.pdf",
+    "Malware analysis/PE_Analysis_Report.pdf",
+    "Malware analysis/MalloX_Ransom.pdf",
+    "Malware analysis/MIPS.pdf",
+    "Malware analysis/Dynamic_analysis.pdf",
+    "Malware analysis/OSCP_Quals.pdf",
+    "Malware analysis/Malware_Analysis_Lab3.pdf",
+    "Malware analysis/Malware_Analysis_Lab2.pdf",
+    "Malware analysis/Malware_Analysis_Lab1.pdf",
+    "Malware analysis/Elhani_Mohammed-Rida_Lab4/graph.png",
+    "Attachments/Screenshot 2026-01-07 145120.png",
+    "Attachments/Screenshot 2026-01-07 111136.png",
+    "Attachments/Pasted image 20260108122001.png",
+    "Attachments/Pasted image 20260108122320.png",
+    "Attachments/Pasted image 20260107120636.png",
+    "Attachments/Pasted image 20260107111033.png",
+    "Attachments/Pasted image 20260107110628.png",
+    "Attachments/Pasted image 20260107110540.png",
+    "Attachments/Pasted image 20260107105439.png",
+    "Untitled.canvas"
+  ]
+}

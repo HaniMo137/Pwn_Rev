@@ -1,0 +1,33 @@
+### Done :
+- bandit
+- leviathan
+- Half of Narnia
+- pwn_college (getting started )
+- Try hack me (assembly/ and basics rooms )
+- Pico reverse :  3 ez - 44 med - 3 hard
+- Pico pwn : 3 ez - 12 medium
+- Pwnable.kr :  5 challs (goal is to finish Toddler's Bottle)
+## Waiting :
+- IronStone :https://ir0nstone.gitbook.io/notes/binexp/stack/nops 
+- Pwn_college : Intro to Cybersecurity
+- Overthewire .
+- ROP Emporium.
+- Pwnable games: https://pwnable.kr/play.php
+- Pwnable : https://pwnable.tw/challenge/
+- Funny challs : https://pwnable.xyz/
+- Crackmes : https://crackmes.one/
+- LiveOverflow 
+- Exploit education Vm's : https://exploit.education/main-sequence/
+- Plaidctf : https://plaidctf.com/
+- Root Me : App-System / App-Script / Cracking / Programming
+- W3Challs : https://w3challs.com/challenges
+- 247 ctf : https://247ctf.com/dashboard
+- 0x0539 : https://0x0539.net/play
+- Ctf learn : https://ctflearn.com/
+- Pwn.tn : https://pwn.tn/
+- Hacker.org : https://www.hacker.org/
+- BatamLaden : https://wargames.batamladen.com/'
+- Hack my Vm : https://hackmyvm.eu/
+- Crack my app : https://crackmy.app/
+- Smash the stack : https://www.smashthestack.org/
+- Courses : https://trailofbits.github.io/
