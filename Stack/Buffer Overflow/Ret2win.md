@@ -34,7 +34,7 @@ r2 -d -A $(pidof vuln)
 By providing the PID of the process, radare2 hooks onto it, then we break at the return of the unsafe function and read the return pointer value. 
 The exploit is not guaranteed to work because we still don t know the  [[Endianness]] of the system. 
 #### 4 - Finding The Endianness :
-- [[Radare2]] comes with a nice tool called [[rabin2]] for binary analysis
+- [[Radare2]] comes with a nice tool called [[Rabin2]] for binary analysis
 ```bash
 $ rabin2 -I vuln
 ```

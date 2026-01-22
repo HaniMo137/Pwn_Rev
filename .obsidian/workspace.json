@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wargames/Narnia.md",
+                "file": "Tools/gdb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Narnia"
+              "title": "gdb"
+            }
+          },
+          {
+            "id": "fe1560806c3d13f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Useful links/Prompts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prompts"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,44 +198,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "cf849d1d3b9c4b5c",
+  "active": "fe1560806c3d13f8",
   "lastOpenFiles": [
-    "Useful links/research.md",
-    "PWN - exploits/Baby.md",
-    "Wargames/Narnia.md",
-    "Useful links/Roadmap.md",
+    "Untitled.md",
+    "Selction_Ctf.md",
+    "Useful links/Selction_Ctf.md",
     "Useful links/Prompts.md",
     "Useful links/Links for exploit.md",
     "Useful links/Links for learning.md",
-    "Security Mechanisms/PIE.md",
-    "Reverse Engineering/UPX Packing.md",
-    "Reverse Engineering/Universal Binary.md",
-    "Reverse Engineering/UD2.md",
-    "PWN - exploits/Time-of-check to time-of-use (TOCTOU) race condition.md",
-    "PWN - exploits/Shells.md",
-    "PWN - exploits/Pwn - test.md",
-    "PWN - exploits/Hash Collision.md",
-    "PWN - exploits/Pwnable.kr_write-ups",
+    "Tools/Radare2/R2.md",
     "Tools/Radare2.md",
-    "Useful links/I need to study this.md",
-    "Tools/Rabin2.md",
     "Tools/PwnTools.md",
+    "Tools/Radare2/Rax2.md",
+    "Tools/Radare2/Rahash2.md",
+    "Tools/Radare2/Ragg2.md",
+    "Tools/Radare2/Radiff2.md",
+    "Tools/Radare2/Rabin2.md",
+    "Tools/Radare2/Rasm2.md",
     "Tools/gdb.md",
+    "Tools/Radare2",
+    "Useful links/research.md",
+    "README.md",
+    "Malware analysis/Day 1.md",
+    "Malware analysis/DAY 3.md",
+    "Malware analysis/DAY 4.md",
+    "PWN - exploits/Pwn - test.md",
+    "PWN - exploits/Baby.md",
+    "Useful links/Roadmap.md",
     "Stack/Stack.md",
     "Stack/Return Oriented Programming/ROP.md",
-    "Stack/Return Oriented Programming/Gadgets.md",
-    "Stack/Return Oriented Programming/Calling Conventions.md",
-    "Stack/Format String/Exploiting Format String Vulnerabilities (scut , team teso).md",
-    "Stack/Buffer Overflow/Smashing The Stack For Fun And Profit.md",
-    "Malware analysis/Fantasy_Hub.pdf",
     "Malware analysis/PE_Analysis_Report.pdf",
-    "Malware analysis/MalloX_Ransom.pdf",
     "Malware analysis/MIPS.pdf",
+    "Malware analysis/Fantasy_Hub.pdf",
+    "Malware analysis/MalloX_Ransom.pdf",
     "Malware analysis/Dynamic_analysis.pdf",
+    "PWN - exploits/Pwnable.kr_write-ups",
     "Malware analysis/OSCP_Quals.pdf",
     "Malware analysis/Malware_Analysis_Lab3.pdf",
     "Malware analysis/Malware_Analysis_Lab2.pdf",
-    "Malware analysis/Malware_Analysis_Lab1.pdf",
     "Malware analysis/Elhani_Mohammed-Rida_Lab4/graph.png",
     "Attachments/Screenshot 2026-01-07 145120.png",
     "Attachments/Screenshot 2026-01-07 111136.png",

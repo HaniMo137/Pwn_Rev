@@ -1,5 +1,27 @@
+# Obsidian workspace files (personal/local)
 .obsidian/workspace*
-.obsidian/cache
-.trash/
+.obsidian/cache/
+.obsidian/graph.json
+.obsidian/hotkeys.json
+
+# Plugins config (optional: keep if you want same setup everywhere)
+.obsidian/plugins/
+
+# OS junk
 .DS_Store
 Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# Node / Python (if any)
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+
+
+Wargames/
+Selction_Ctf.md 
