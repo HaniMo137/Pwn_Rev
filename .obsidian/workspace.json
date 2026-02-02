@@ -27,16 +27,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful links/Prompts.md",
+                "file": "Useful links/Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompts"
+              "title": "Roadmap"
+            }
+          },
+          {
+            "id": "8916f5a257e98f2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Windows_internals/Virtual Memory.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Virtual Memory"
+            }
+          },
+          {
+            "id": "1bd0e778fc98c972",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Windows_internals/Dynamic Link Libraries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dynamic Link Libraries"
+            }
+          },
+          {
+            "id": "5f71fbfdd8df4e4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Windows_internals/Processes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Processes"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,54 +240,54 @@
       "bases:Create new base": false
     }
   },
-  "active": "fe1560806c3d13f8",
+  "active": "1bd0e778fc98c972",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Selction_Ctf.md",
-    "Useful links/Selction_Ctf.md",
-    "Useful links/Prompts.md",
-    "Useful links/Links for exploit.md",
-    "Useful links/Links for learning.md",
-    "Tools/Radare2/R2.md",
-    "Tools/Radare2.md",
-    "Tools/PwnTools.md",
-    "Tools/Radare2/Rax2.md",
-    "Tools/Radare2/Rahash2.md",
-    "Tools/Radare2/Ragg2.md",
-    "Tools/Radare2/Radiff2.md",
-    "Tools/Radare2/Rabin2.md",
-    "Tools/Radare2/Rasm2.md",
-    "Tools/gdb.md",
-    "Tools/Radare2",
-    "Useful links/research.md",
-    "README.md",
-    "Malware analysis/Day 1.md",
-    "Malware analysis/DAY 3.md",
-    "Malware analysis/DAY 4.md",
-    "PWN - exploits/Pwn - test.md",
+    "Architecture/Windows_internals/Virtual Memory.md",
+    "Architecture/Windows_internals/Dynamic Link Libraries.md",
+    "Security Mechanisms/ASLR.md",
+    "Architecture/Windows_internals/Threads.md",
+    "Architecture/Windows_internals/Processes.md",
+    "Pasted image 20260202152644.png",
+    "Pasted image 20260202152626.png",
+    "Pasted image 20260202150102.png",
+    "Architecture/32- vs 64-bit.md",
+    "Reverse Engineering/Reverse Engineering Book.md",
+    "Stack/Return Oriented Programming/Calling Conventions.md",
+    "Stack/Format String/Exploiting Format String Vulnerabilities (scut , team teso).md",
+    "Stack/Buffer Overflow/Smashing The Stack For Fun And Profit.md",
+    "Stack/Buffer Overflow/Shellcode.md",
+    "Stack/Buffer Overflow/Ret2win.md",
+    "Stack/Buffer Overflow/No eXecute.md",
+    "Stack/Buffer Overflow/De Bruijn Sequences.md",
+    "Stack/Buffer Overflow/Buffer Overflow.md",
     "PWN - exploits/Baby.md",
+    "Malware analysis/Windows PE Analysis.md",
+    "Heap/Heap.md",
+    "Architecture/Process.md",
+    "Architecture/OS.md",
+    "Architecture/Executable.md",
+    "Architecture/Endianness.md",
+    "Attachments/Pasted image 20260129211434.png",
+    "Selction_Ctf.md",
+    "README.md",
+    "Architecture/Von Neumann Architecture.md",
     "Useful links/Roadmap.md",
-    "Stack/Stack.md",
-    "Stack/Return Oriented Programming/ROP.md",
     "Malware analysis/PE_Analysis_Report.pdf",
     "Malware analysis/MIPS.pdf",
     "Malware analysis/Fantasy_Hub.pdf",
-    "Malware analysis/MalloX_Ransom.pdf",
     "Malware analysis/Dynamic_analysis.pdf",
+    "Malware analysis/MalloX_Ransom.pdf",
+    "Attachments/Pasted image 20260122182508.png",
+    "Attachments/Pasted image 20260122182450.png",
+    "Attachments/Pasted image 20260122182409.png",
+    "Architecture/Windows_internals",
+    "Tools/Radare2",
     "PWN - exploits/Pwnable.kr_write-ups",
     "Malware analysis/OSCP_Quals.pdf",
     "Malware analysis/Malware_Analysis_Lab3.pdf",
-    "Malware analysis/Malware_Analysis_Lab2.pdf",
     "Malware analysis/Elhani_Mohammed-Rida_Lab4/graph.png",
     "Attachments/Screenshot 2026-01-07 145120.png",
     "Attachments/Screenshot 2026-01-07 111136.png",
-    "Attachments/Pasted image 20260108122001.png",
-    "Attachments/Pasted image 20260108122320.png",
-    "Attachments/Pasted image 20260107120636.png",
-    "Attachments/Pasted image 20260107111033.png",
-    "Attachments/Pasted image 20260107110628.png",
-    "Attachments/Pasted image 20260107110540.png",
-    "Attachments/Pasted image 20260107105439.png",
     "Untitled.canvas"
   ]
 }

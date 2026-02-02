@@ -4,7 +4,7 @@
 - Half of Narnia
 - pwn_college (getting started )
 - Try hack me (assembly/ and basics rooms )
-- Pico reverse :  3 ez - 44 med - 3 hard
+- Pico reverse :  3 ez - 44 med - 7 hard
 - Pico pwn : 3 ez - 12 medium
 - Pwnable.kr :  5 challs (goal is to finish Toddler's Bottle)
 ## Waiting :
