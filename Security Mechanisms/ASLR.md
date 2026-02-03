@@ -33,4 +33,4 @@ ASLR stands for **Address Space Layout Randomization**, a security technique des
 - [[Stack]] : the stack pointer is init to a random offset within a predefined range.
 - [[Heap]] : randomizing the starting address for dynamic memory allocation (brk or mmap)
 - [[Shared Libraries]] : The loader uses *mmap* to load libraries at random addresses.
-- [[Executable]] : if compiled with PIE , the code's base address is randomized.
+- [[Executables]] : if compiled with PIE , the code's base address is randomized.

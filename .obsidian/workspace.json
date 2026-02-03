@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture/Windows_internals/Dynamic Link Libraries.md",
+                "file": "Architecture/Executables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dynamic Link Libraries"
+              "title": "Executables"
             }
           },
           {
@@ -69,16 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture/Windows_internals/Processes.md",
+                "file": "Architecture/Windows_internals/Portable Executable.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Processes"
+              "title": "Portable Executable"
+            }
+          },
+          {
+            "id": "029cbe33729bd5fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Windows_internals/Interaction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interaction"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -240,17 +254,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "1bd0e778fc98c972",
+  "active": "c5750d3bd55ecd86",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260203161805.png",
+    "Attachments/Pasted image 20260203161752.png",
+    "Architecture/Windows_internals/Portable Executable.md",
+    "Architecture/Windows_internals/Interaction.md",
+    "Attachments/Pasted image 20260203154313.png",
+    "Malware analysis/Windows PE Analysis.md",
+    "Attachments/Pasted image 20260203154204.png",
+    "Attachments/Pasted image 20260203152824.png",
+    "Attachments/Pasted image 20260203152328.png",
+    "Attachments/Pasted image 20260203151733.png",
+    "Attachments/Screenshot 2026-01-07 145120.png",
+    "Attachments/Pasted image 20251124161327.png",
+    "Attachments/Pasted image 20251121110919.png",
     "Architecture/Windows_internals/Virtual Memory.md",
-    "Architecture/Windows_internals/Dynamic Link Libraries.md",
-    "Security Mechanisms/ASLR.md",
     "Architecture/Windows_internals/Threads.md",
     "Architecture/Windows_internals/Processes.md",
-    "Pasted image 20260202152644.png",
-    "Pasted image 20260202152626.png",
-    "Pasted image 20260202150102.png",
+    "Tools/Radare2/Rax2.md",
+    "Architecture/Executables.md",
+    "Architecture/Von Neumann Architecture.md",
+    "Architecture/Shared Libraries.md",
+    "Architecture/OS.md",
+    "Architecture/Memory Segments.md",
+    "Architecture/Endianness.md",
     "Architecture/32- vs 64-bit.md",
+    "Architecture/Windows_internals/Dynamic Link Libraries.md",
+    "Security Mechanisms/ASLR.md",
+    "Attachments/Pasted image 20260202152644.png",
     "Reverse Engineering/Reverse Engineering Book.md",
     "Stack/Return Oriented Programming/Calling Conventions.md",
     "Stack/Format String/Exploiting Format String Vulnerabilities (scut , team teso).md",
@@ -260,34 +292,16 @@
     "Stack/Buffer Overflow/No eXecute.md",
     "Stack/Buffer Overflow/De Bruijn Sequences.md",
     "Stack/Buffer Overflow/Buffer Overflow.md",
-    "PWN - exploits/Baby.md",
-    "Malware analysis/Windows PE Analysis.md",
-    "Heap/Heap.md",
-    "Architecture/Process.md",
-    "Architecture/OS.md",
-    "Architecture/Executable.md",
-    "Architecture/Endianness.md",
-    "Attachments/Pasted image 20260129211434.png",
-    "Selction_Ctf.md",
-    "README.md",
-    "Architecture/Von Neumann Architecture.md",
-    "Useful links/Roadmap.md",
     "Malware analysis/PE_Analysis_Report.pdf",
     "Malware analysis/MIPS.pdf",
     "Malware analysis/Fantasy_Hub.pdf",
     "Malware analysis/Dynamic_analysis.pdf",
     "Malware analysis/MalloX_Ransom.pdf",
-    "Attachments/Pasted image 20260122182508.png",
-    "Attachments/Pasted image 20260122182450.png",
-    "Attachments/Pasted image 20260122182409.png",
     "Architecture/Windows_internals",
     "Tools/Radare2",
     "PWN - exploits/Pwnable.kr_write-ups",
     "Malware analysis/OSCP_Quals.pdf",
     "Malware analysis/Malware_Analysis_Lab3.pdf",
-    "Malware analysis/Elhani_Mohammed-Rida_Lab4/graph.png",
-    "Attachments/Screenshot 2026-01-07 145120.png",
-    "Attachments/Screenshot 2026-01-07 111136.png",
     "Untitled.canvas"
   ]
 }
